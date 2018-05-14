@@ -1,0 +1,32 @@
+ZnajdŸ wszystkie znaczenia rzeczownika szkoda oraz wymieñ ich synonimy (jeœli posiadaj¹).
+PLWN-00003675-n  {strata:1, utrata:1, szkoda:2, uszczerbek:1}  ()
+PLWN-00006533-n  {szkoda:1}  (brak danych)
+ZnajdŸ domkniêcie przechodnie relacji hiperonimi dla pierwszego znaczenia wyra¿enia wypadek drogowy i przedstaw je w postaci grafu skierowanego.
+PLWN-00410902-n  {wypadek drogowy:1}  ()
+PLWN-00410901-n  {wypadek komunikacyjny:1}  ()
+PLWN-00003982-n  {wypadek:1}  ()
+PLWN-00027419-n  {zdarzenie oceniane negatywnie:1}  (brak danych)
+PLWN-00006526-n  {wydarzenie:1, wypadek:3, zdarzenie:2, historia:3}  ()
+ZnajdŸ bezpoœrednie hiponimy rzeczownika wypadek1.
+PLWN-00001284-n  {zderzenie:2, kraksa:1}  ()
+PLWN-00006486-n  {kolizja:2}  ()
+PLWN-00016131-n  {karambol:1}  ()
+PLWN-00034688-n  {zawa³:2}  ()
+PLWN-00034689-n  {t¹pniêcie:1}  ()
+PLWN-00241026-n  {kapota¿:1}  ()
+PLWN-00258639-n  {wykolejenie:2}  ()
+PLWN-00389170-n  {zakrztuszenie:1, zach³yœniêcie:1, aspiracja:3}  ()
+PLWN-00410901-n  {wypadek komunikacyjny:1}  ()
+PLWN-00411618-n  {katastrofa budowlana:1}  ()
+PLWN-00436137-n  {wypadek j¹drowy:1}  ()
+ZnajdŸ hiponimy drugiego rzêdu dla rzeczownika wypadek1.
+PLWN-00235346-n  {czo³ówka:9, zderzenie czo³owe:1}  ()
+PLWN-00471555-n  {st³uczka:1}  ()
+PLWN-00441365-n  {kolizja drogowa:1}  ()
+PLWN-00037295-n  {obwa³:1}  ()
+PLWN-00410902-n  {wypadek drogowy:1}  ()
+Przedstaw w postaci grafu skierowanego (z etykietami dla krawêdzi) relacje semantyczne pomiêdzy nastêpuj¹cymi grupami leksemów
+ZnajdŸ wartoœæ miary pokrewieñstwa semantycznego Leacocka-Chodorowa pomiêdzy nastêpuj¹cymi parami leksemów:
+szkoda - wypadek 2.8622008809294686
+kolizja - szkoda maj¹tkowa 2.456735772821304
+nieszczêœcie - katastrofa budowlana 2.05127066471314
