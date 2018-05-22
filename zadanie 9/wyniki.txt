@@ -1,0 +1,53 @@
+s¹d_najwy¿szy
+[('s¹d_najwy¿szy,', 0.7662931680679321), ('sad_najwy¿szy', 0.6484573483467102), ('2012_r._s¹d_najwy¿szy', 0.5764085054397583)]
+
+trybuna³_konstytucyjny
+[('trybuna³', 0.9220569133758545), ('trybuna³_konstytucyjny,', 0.8240522742271423), ('trybuna³,', 0.7835581302642822)]
+
+kodeks_cywilny
+[('kodeks_spó³ek_handlowych', 0.7821257710456848), ('kodeks_pracy', 0.7583785057067871), ('ordynacja_podatkowa', 0.7280893325805664)]
+
+kpk
+[('kpk,', 0.883453905582428), ('k.p.k.,', 0.8498708009719849), ('k.p.k.', 0.8365625143051147)]
+
+s¹d_rejonowy
+[('s¹d_okrêgowy', 0.844971239566803), ('s¹d_wojewódzki', 0.8373017311096191), ('s¹d_rejonowy,', 0.7559635639190674)]
+
+szkoda
+[('krzywda', 0.8105641603469849), ('szkoda,', 0.8021841645240784), ('szkoda_ta', 0.7706884145736694)]
+
+wypadek
+[('skutek', 0.6701564788818359), ('przypadek', 0.6475061178207397), ('sam_fakt', 0.634202778339386)]
+
+kolizja
+[('bezpoœrednia', 0.6921384930610657), ('sukcesja', 0.688590407371521), ('sfera', 0.6833974123001099)]
+
+szkoda_maj¹tkowa
+[('krzywda', 0.7626990079879761), ('ewentualna_szkoda', 0.7471493482589722), ('uszczerbek_maj¹tkowy', 0.7304308414459229)]
+
+nieszczêœcie
+[('krzycz¹c,', 0.76130211353302), ('synow¹,', 0.7451452016830444), ('groŸba_ta_wzbudzi³a', 0.7448769211769104)]
+
+rozwód
+[('rozwód.', 0.796831488609314), ('wydanie_nieruchomoœci', 0.6795557141304016), ('separacjê', 0.676896870136261)]
+
+s¹d_najwy¿szy - kpc + konstytucja = 
+('s¹d_najwy¿szy', 0.7547707557678223)
+('trybuna³_konstytucyjny', 0.5921102166175842)
+('trybuna³', 0.5708383321762085)
+('trybuna³_konstytucyjny_wielokrotnie', 0.5693435668945312)
+('dotychczasowym_orzecznictwie_trybuna³_konstytucyjny', 0.5540804266929626)
+
+pasa¿er - mê¿czyzna + kobieta = 
+('równowaga', 0.4270442724227905)
+('prawna_skutecznoœæ', 0.427036315202713)
+('reforma', 0.42555373907089233)
+('grupa_adresatów', 0.41724976897239685)
+('postêpuj¹ca', 0.41381821036338806)
+
+samochód - droga + rzeka = 
+('samochód', 0.7796175479888916)
+('pojazd', 0.6765812635421753)
+('samochód,', 0.670174241065979)
+('telefon', 0.6636061072349548)
+('towar', 0.6606780290603638)
