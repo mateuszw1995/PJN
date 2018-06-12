@@ -1,0 +1,6 @@
+ZnajdŸ liczbê orzeczeñ, w których wystêpuje s³owo szkoda: 596
+ZnajdŸ liczbê orzeczeñ, w których wystêpuje fraza trwa³y uszczerbek na zdrowiu, dok³adnie w tej kolejnoœci ale w dowolnej formie fleksyjnej: 6
+Jak wy¿ej, ale z uwzglêdnieniem mo¿liwoœci wyst¹pienia maksymalnie 2 dodatkowych s³ów pomiêdzy dowolnymi elementami frazy: 7
+{'key': 'Barbara Myszka', 'doc_count': 190}
+{'key': 'Teresa Bielska-Sobkowicz', 'doc_count': 184}
+{'key': 'Marian Kocon', 'doc_count': 170}
