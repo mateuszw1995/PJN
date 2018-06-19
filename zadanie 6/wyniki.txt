@@ -1,0 +1,117 @@
+sprawy cywilne: 1656
+sprawy z zakresu ubezpieczenia spo쿮cznego: 90
+sprawy karne: 38
+sprawy gospodarcze: 1
+sprawy w zakresie prawa pracy: 109
+sprawy w zakresie prawa rodzinnego: 0
+sprawy o wykroczenia: 0
+sprawy w zakresie prawa konkurencji: 16
+BASE
+accuracy 0.9555084745762712
+confusion matrix: 
+[[414   0   0   0]
+ [  5   4   0   0]
+ [  5   0  21   1]
+ [  9   0   1  12]]
+                                            precision    recall  f1-score   support
+
+                            sprawy cywilne       0.96      1.00      0.98       414
+                              sprawy karne       1.00      0.44      0.62         9
+             sprawy w zakresie prawa pracy       0.95      0.78      0.86        27
+sprawy z zakresu ubezpieczenia spo쿮cznego       0.92      0.55      0.69        22
+
+                               avg / total       0.96      0.96      0.95       472
+
+micro-average: (0.9555084745762712, 0.9555084745762712, 0.9555084745762712)
+macro-average: (0.9584356175002826, 0.6919191919191919, 0.7839524112251385)
+
+FLEXED
+accuracy 0.9491525423728814
+confusion matrix: 
+[[414   0   0   0]
+ [  5   4   0   0]
+ [  8   0  19   0]
+ [ 10   0   1  11]]
+                                            precision    recall  f1-score   support
+
+                            sprawy cywilne       0.95      1.00      0.97       414
+                              sprawy karne       1.00      0.44      0.62         9
+             sprawy w zakresie prawa pracy       0.95      0.70      0.81        27
+sprawy z zakresu ubezpieczenia spo쿮cznego       1.00      0.50      0.67        22
+
+                               avg / total       0.95      0.95      0.94       472
+
+micro-average: (0.9491525423728814, 0.9491525423728814, 0.9491525423728814)
+macro-average: (0.9743421052631578, 0.662037037037037, 0.7658837233305318)
+BASE 	 sprawy cywilne
+confusion matrix: 
+[[ 44  14]
+ [  0 414]]
+precision: 0.967290
+recall: 1.000000
+f1 score: 0.983373
+
+BASE 	 sprawy z zakresu ubezpieczenia spo쿮cznego
+confusion matrix: 
+[[450   0]
+ [ 10  12]]
+precision: 1.000000
+recall: 0.545455
+f1 score: 0.705882
+
+BASE 	 sprawy karne
+confusion matrix: 
+[[463   0]
+ [  5   4]]
+precision: 1.000000
+recall: 0.444444
+f1 score: 0.615385
+
+BASE 	 sprawy w zakresie prawa pracy
+confusion matrix: 
+[[444   1]
+ [  9  18]]
+precision: 0.947368
+recall: 0.666667
+f1 score: 0.782609
+
+micro: precision 0.967603  recall 0.949153  score 0.958289
+macro: precision 0.978665  recall 0.664141  score 0.771812
+
+FLEXED 	 sprawy cywilne
+confusion matrix: 
+[[ 41  17]
+ [  1 413]]
+precision: 0.960465
+recall: 0.997585
+f1 score: 0.978673
+
+
+FLEXED 	 sprawy z zakresu ubezpieczenia spo쿮cznego
+confusion matrix: 
+[[449   1]
+ [ 11  11]]
+precision: 0.916667
+recall: 0.500000
+f1 score: 0.647059
+
+
+FLEXED 	 sprawy karne
+confusion matrix: 
+[[463   0]
+ [  5   4]]
+precision: 1.000000
+recall: 0.444444
+f1 score: 0.615385
+
+
+FLEXED 	 sprawy w zakresie prawa pracy
+confusion matrix: 
+[[444   1]
+ [ 10  17]]
+precision: 0.944444
+recall: 0.629630
+f1 score: 0.755556
+
+micro: precision 0.959052  recall 0.942797  score 0.950855
+macro: precision 0.955394  recall 0.642915  score 0.749168
